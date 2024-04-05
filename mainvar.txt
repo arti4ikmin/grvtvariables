@@ -1,1 +1,1 @@
-enabledtest = 0
+enabledtest = true
