@@ -1,2 +1,1 @@
-enabledtest = true
-textfront = "Hello"
+enabledtest = false
